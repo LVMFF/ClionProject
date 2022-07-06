@@ -1,0 +1,43 @@
+/cmake-build-debug/
+/build/linux/
+/build/win/
+
+### C++ template
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+/cmake-build-debug/code/cmake_install.cmake
+/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1e076ea313ad6e3523e3.json
+/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-82a191b9a0a085683ef5.json
+/cmake-build-debug/.cmake/api/v1/reply/directory-code-Debug-72d976be7be2dccbc04f.json
+/cmake-build-debug/.cmake/api/v1/reply/index-2022-07-01T07-35-57-0294.json
